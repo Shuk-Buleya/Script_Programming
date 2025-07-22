@@ -4,7 +4,7 @@
 
 #### **1. What is JavaScript?**  
 - **Client-side & server-side**: Runs in browsers (frontend) and servers (backend).  
-- **Ubiquitous**: Powers interactive web features (e.g., popups, menus, live chats).  
+- **Found everywhere**: Powers interactive web features (e.g., popups, menus, live chats).  
 - **Beyond static pages**: Essential for dynamic user interactions (buttons, forms, animations).  
 
 #### **2. Why Learn JavaScript?**  
