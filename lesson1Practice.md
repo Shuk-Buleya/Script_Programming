@@ -74,7 +74,7 @@ The /* */ being used for a mult-line comment and // for a single line comment
 1. **Add a new variable**:  
    ```javascript
    let score = 0; // Initial score
-   console.log("Score: " + score);
+   console.log("Initial score: " + score);
    ```  
 2. **Update the score** with the random number:  
    ```javascript
