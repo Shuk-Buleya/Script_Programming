@@ -2,6 +2,7 @@
 *Course Title: Script Programming*
 
 ***Course Duration:***
+
 - 6 Weeks (Adjustable based on teaching frequency and your pace)
   
 ***Course Description:***
