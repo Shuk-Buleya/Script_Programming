@@ -35,6 +35,8 @@ In `script.js`:
    */
    console.log("Alice"); // Replace "Alice" with your name
    ```
+The /* */ being used for a mult-line comment and // for a single line comment
+
 
 2. **Prompt for user input** and log the response:  
    ```javascript
