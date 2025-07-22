@@ -1,5 +1,5 @@
 
-*Course Title: Script Programming*
+## Course Title: Script Programming
 
 ***Course Duration:***
 
