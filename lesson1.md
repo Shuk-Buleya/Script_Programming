@@ -81,6 +81,6 @@
   - External JS files > inline scripts.  
   - Consistent indentation/comments.  
   - Chrome/Firefox for development.  
-- **Next Steps**: Master variables, operators, loops!  
+- **Next Steps**: [Lesson1 Practice  ](https://github.com/Shuk-Buleya/Script_Programming/blob/main/lesson1Practice.md)
 
 --- 
