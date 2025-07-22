@@ -1,4 +1,4 @@
-### **JavaScript Study Notes: Getting Started**  
+### **Getting Started with JavaScript Summary**  
 
 ---
 
