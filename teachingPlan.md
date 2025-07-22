@@ -10,7 +10,7 @@
 _______________________________________
 **Course Objectives:**
 
-By the end of this course, students will be able to:
+By the end of this course, you will be able to:
 - Understand and write basic JavaScript syntax
 - Declare and use variables and data types effectively
 - Work with arrays and manipulate data
