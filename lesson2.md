@@ -1,16 +1,16 @@
 # **Short Notes on Variables and Operators in JavaScript**  
 
-## **PVariables**  
+## **Variables**  
 
 ### **What are Variables?**  
 Variables store data that can change while the code runs. They make code dynamic.  
 
 **Example:**  
 ```javascript
-let firstName = "Maaike";  
+let firstName = "Shukran";  
 let age = 25;  
 ```  
-- `firstName` can later be updated to `"Edward"`.  
+- `firstName` can later be updated to `"Husna"`.  
 - Without variables, code would do the same thing every time.  
 
 ### **Declaring Variables**  
