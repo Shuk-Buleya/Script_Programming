@@ -43,7 +43,7 @@ JavaScript has 7 primitive types:
 
 **String Examples:**  
 ```javascript
-let name = "Alice";  
+let name = "Lauren";  
 let msg = `Hello, ${name}`;  // Template string  
 ```  
 
