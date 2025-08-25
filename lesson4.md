@@ -1,7 +1,6 @@
 ### **Logic Dtatements in JavaScript**
 
 ### **1. Introduction: Making Code Make Decisions**
-Until now, your code has run the same way every time. **Logic statements** change that. They let your code choose different paths based on conditions, making your programs dynamic and interactive.
 
 **Key Concepts Covered:**
 - `if` and `if else` statements
