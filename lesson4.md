@@ -212,9 +212,5 @@ switch (grade) {
 - **Keep it readable.** A long `else if` chain is often better as a `switch`. A simple `if-else` is often clearer than a ternary.
 
 ### **Next Steps: Practice!**
-Try the projects from the chapter:
-1. **Number Game:** Compare a user's number to a secret number.
-2. **Friend Checker:** Use a `switch` to see if a entered name is a friend.
-3. **Rock Paper Scissors:** Use `if` statements to compare player and computer choices from an array.
-
-By mastering these logic gates, you've unlocked the ability to write truly intelligent and interactive code!
+Checkput the following mini project:
+**Rock Paper Scissors:** Use `if` statements to compare player and computer choices from an array.
