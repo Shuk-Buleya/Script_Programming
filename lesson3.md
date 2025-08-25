@@ -43,7 +43,7 @@
 
 ---
 
-### Page 2: Array Methods & Multidimensional Arrays  
+### Array Methods & Multidimensional Arrays  
 **Essential Methods**  
 | Method       | Action                           | Example                          |
 |--------------|----------------------------------|----------------------------------|
@@ -76,7 +76,7 @@ console.log(prices.find(x => x>5)); // 7
 
 ---
 
-### Page 3: Objects & Practical Patterns  
+### Objects & Practical Patterns  
 **Objects Basics**  
 - Collections of key-value pairs:  
   ```javascript
