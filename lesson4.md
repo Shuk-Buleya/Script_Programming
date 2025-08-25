@@ -209,5 +209,5 @@ switch (grade) {
 - **Keep it readable.** A long `else if` chain is often better as a `switch`. A simple `if-else` is often clearer than a ternary.
 
 ### **Next Steps: Practice!**
-Checkput the following mini project:
+Checkout the following mini project:
 **Rock Paper Scissors:** Use `if` statements to compare player and computer choices from an array.
