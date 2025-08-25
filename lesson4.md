@@ -194,7 +194,7 @@ switch (grade) {
 
 ---
 
-### **6. Key Takeaways & Summary**
+### **6. Summar**
 
 | Statement | Best Used For... | Example |
 | :--- | :--- | :--- |
